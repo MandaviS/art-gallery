@@ -1,0 +1,191 @@
+h1{
+    font-weight: 400;
+    font-family: "Cinzel",Serif;
+}
+
+h2, h3{
+    font-family: "Cairo", Sans-serif;
+    font-size: 1.4rem;
+    line-height: 3.1rem;
+}
+
+
+
+p{
+    /*line-height: 3.1rem;*/
+    font-size: 1.4rem;
+    font-family: 'Cairo', sans-serif;
+}
+
+
+hr{
+    border-top: solid ;
+}
+
+
+.container-fluid {
+    padding: 3% 10% 7%;
+}
+
+                         /* NAVBAR */
+
+.brand{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+}
+
+.nav-item {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat"
+    font-weight: 300;
+}
+
+                  /* title */
+
+#title {
+    background-image: url("https://artlogic-res.cloudinary.com/w_1400,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0033/usr/images/feature_panels/image/items/87/8769ba2478cf49959226e39ef1c78626/portland_drexler_5.jpg");
+     /*background-color: red;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+
+.heading {
+    position: relative;
+    top: 400px;
+    color: white;
+
+}
+
+.heading-h2{
+    font-size: 2.5rem;
+}
+
+.brand{
+    color: #fff;
+    font-size: 3.5rem;
+}
+
+
+                    /* introduction */
+
+#introduction{
+    height: 800px;
+
+}
+
+.intro-photo{
+    width: 100%;
+    /*height: 600px;*/
+    height: 120%;
+    position: relative;
+    top: 75px;
+}
+
+
+.intro-text{
+    position: relative;
+    top: 145px;
+}
+
+
+                                  /* exhibition */
+
+
+
+.painting{
+    height: 100%;
+    width: 100%;
+}
+
+/*.exhibition-row{
+    padding: 80px 0 0px;
+}
+*/
+.exhibition-content{
+    padding: 50px 20px;
+}
+
+
+
+                         /* works */
+
+/* 1298*550 */
+/* 743*550  */
+
+.sample-painting{
+    width: 100%;
+    height: 100%;
+}
+
+.work-text{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+
+                   /* footer  */
+
+#footer{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.footer-icon {
+    padding: 15px 10px;
+}
+
+
+
+                  /*  work title */
+
+#work-title {
+    background-image: url("https://wallpapers-hub.art/wallpaper-images/206378.jpg");
+     /*background-color: red;*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+
+.work-heading {
+    position: relative;
+    top: 200px;
+    color: #fff;
+
+}
+
+.work-heading-h1{
+    color: #fff;
+    text-align: center;
+    font-size: 6rem;
+    font-weight: 900;
+}
+
+
+                                  /* work-exhibition */
+
+
+
+.work-painting{
+    height: 100%;
+    width: 100%;
+}
+
+/*.exhibition-row{
+    padding: 80px 0 0px;
+}
+*/
+.work-exhibition-content{
+    padding: 50px 20px;
+}
+
+
