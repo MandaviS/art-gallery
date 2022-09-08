@@ -5,9 +5,9 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import UserMixin, login_user, LoginManager, login_required, current_user, logout_user
 from functools import wraps
 from flask_wtf import FlaskForm
-from wtforms import StringField, SubmitField, PasswordField, URLField
+from wtforms import StringField, SubmitField, PasswordField
 from wtforms.validators import DataRequired, URL
-from flask_ckeditor import CKEditorField
+
 
 
 app = Flask(__name__)
